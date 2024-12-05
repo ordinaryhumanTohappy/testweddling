@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/testweddling/static/css/main.eae5a193.css",
-    "main.js": "/testweddling/static/js/main.aa458958.js",
-    "static/js/453.ec03d368.chunk.js": "/testweddling/static/js/453.ec03d368.chunk.js",
-    "static/media/배경이미지.jpg": "/testweddling/static/media/배경이미지.99d0df64b795064afdd3.jpg",
-    "static/media/SSRockRegular_otf.otf": "/testweddling/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
-    "static/media/SSRockRegular.ttf": "/testweddling/static/media/SSRockRegular.f7c0f26d2e1b91e7fdd7.ttf",
-    "static/media/MaplestoryOTFBold.woff": "/testweddling/static/media/MaplestoryOTFBold.4f2e8c71e482d97fed4e.woff",
-    "static/media/배경in.jpg": "/testweddling/static/media/배경in.8d2404a1d569f5e55506.jpg",
-    "static/media/배경out.jpg": "/testweddling/static/media/배경out.da65ad7556b57fa8e160.jpg",
-    "index.html": "/testweddling/index.html",
-    "main.eae5a193.css.map": "/testweddling/static/css/main.eae5a193.css.map",
-    "main.aa458958.js.map": "/testweddling/static/js/main.aa458958.js.map",
-    "453.ec03d368.chunk.js.map": "/testweddling/static/js/453.ec03d368.chunk.js.map"
+    "main.css": "/testwedding/static/css/main.915dc2f8.css",
+    "main.js": "/testwedding/static/js/main.46ea5c19.js",
+    "static/js/453.ec03d368.chunk.js": "/testwedding/static/js/453.ec03d368.chunk.js",
+    "static/media/SSRockRegular_otf.otf": "/testwedding/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
+    "static/media/SSRockRegular.ttf": "/testwedding/static/media/SSRockRegular.f7c0f26d2e1b91e7fdd7.ttf",
+    "static/media/MaplestoryBold.ttf": "/testwedding/static/media/MaplestoryBold.e39287220e971b277c0e.ttf",
+    "static/media/MaplestoryLight.ttf": "/testwedding/static/media/MaplestoryLight.9d9497585053c96c8082.ttf",
+    "static/media/MaplestoryOTFBold.otf": "/testwedding/static/media/MaplestoryOTFBold.914d802a2a94c180d332.otf",
+    "static/media/MaplestoryOTFLight.otf": "/testwedding/static/media/MaplestoryOTFLight.d2110cb8b8de5224831e.otf",
+    "static/media/사진_2.jpg": "/testwedding/static/media/사진_2.a6beaf6a197974f55491.jpg",
+    "static/media/사진_1.jpg": "/testwedding/static/media/사진_1.f5012d85d5871ae1f3a6.jpg",
+    "static/media/배경.jpg": "/testwedding/static/media/배경.89cef07525cbbfa15bd9.jpg",
+    "static/media/약도.jpg": "/testwedding/static/media/약도.50c748717fbec0ccb753.jpg",
+    "static/media/kakaomap_vertical_ko.png": "/testwedding/static/media/kakaomap_vertical_ko.13f6a88699555cd35f0f.png",
+    "static/media/Map_Service_Icon.png": "/testwedding/static/media/Map_Service_Icon.1c51f19ae57060877d58.png",
+    "static/media/tmap_icon.jpg": "/testwedding/static/media/tmap_icon.ef28f9aafddb29671863.jpg",
+    "index.html": "/testwedding/index.html",
+    "main.915dc2f8.css.map": "/testwedding/static/css/main.915dc2f8.css.map",
+    "main.46ea5c19.js.map": "/testwedding/static/js/main.46ea5c19.js.map",
+    "453.ec03d368.chunk.js.map": "/testwedding/static/js/453.ec03d368.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eae5a193.css",
-    "static/js/main.aa458958.js"
+    "static/css/main.915dc2f8.css",
+    "static/js/main.46ea5c19.js"
   ]
 }
